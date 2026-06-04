@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "Achievements",
+  "tabTasks": "Tasks",
+  "tabRecords": "Records",
+  "tabPrizes": "Prizes",
+  "sectionMyRecords": "My records",
+  "sectionTopRecords": "Top records in the system",
+  "sectionMyPrizes": "My prizes",
+  "claim": "Claim",
+  "retry": "Retry",
+  "taskProgress": "{current}/{target}",
+  "prizeProgress": "{current} of {total}"
+}

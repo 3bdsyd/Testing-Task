@@ -1,0 +1,55 @@
+{
+  "@@locale": "ar",
+  "appTitle": "الانجازات",
+  "@appTitle": {
+    "description": "Application / achievements screen title"
+  },
+  "tabTasks": "المهام",
+  "@tabTasks": {
+    "description": "Tasks (missions) tab label"
+  },
+  "tabRecords": "الارقام القياسية",
+  "@tabRecords": {
+    "description": "Records (high scores) tab label"
+  },
+  "tabPrizes": "الجوائز",
+  "@tabPrizes": {
+    "description": "Prizes tab label"
+  },
+  "sectionMyRecords": "ارقامي القياسي",
+  "@sectionMyRecords": {
+    "description": "Section header for the current user's personal records"
+  },
+  "sectionTopRecords": "اعلى ارقام قياسية في النظام",
+  "@sectionTopRecords": {
+    "description": "Section header for the highest records in the whole system"
+  },
+  "sectionMyPrizes": "الجوائز الخاصة بي",
+  "@sectionMyPrizes": {
+    "description": "Section header for the current user's prizes"
+  },
+  "claim": "احصل عليها",
+  "@claim": {
+    "description": "Call to action button to claim a completed task reward"
+  },
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "Retry button shown on the error state"
+  },
+  "taskProgress": "{current}/{target}",
+  "@taskProgress": {
+    "description": "Progress label rendered inside a task progress bar",
+    "placeholders": {
+      "current": { "type": "int" },
+      "target": { "type": "int" }
+    }
+  },
+  "prizeProgress": "{current} من {total}",
+  "@prizeProgress": {
+    "description": "How many copies of a prize the user owns out of the total",
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  }
+}
